@@ -332,7 +332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc0cf8bc379384a739b55825c5cd647e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trackerCamera: {fileID: 0}
+  trackerCamera: {fileID: 1695089683373991597}
   mode: 1
   planeMode: 0
   s3dof:
@@ -1846,7 +1846,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   cam: {fileID: 0}
-  unpausePauseOnEnableDisable: 0
+  unpausePauseOnEnableDisable: 1
   pauseOnDestroy: 0
   pauseOnApplicationLostFocus: 0
   resizeDelay: 50
