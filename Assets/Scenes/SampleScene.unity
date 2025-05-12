@@ -332,7 +332,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc0cf8bc379384a739b55825c5cd647e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trackerCamera: {fileID: 1695089683373991597}
+  trackerCamera: {fileID: 0}
   mode: 1
   planeMode: 0
   s3dof:
